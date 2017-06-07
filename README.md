@@ -1,6 +1,6 @@
 # Hashids
 
-An implementation of the (Hashids)[http://hashids.org/] algorithm in Haskell, with a friendly api.
+An implementation of the [Hashids](http://hashids.org/) algorithm in Haskell, with a friendly api.
 
 ```
 
